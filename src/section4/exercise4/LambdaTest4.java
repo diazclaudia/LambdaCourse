@@ -1,6 +1,5 @@
 package section4.exercise4;
 
-import section3.exercise3.Calculator;
 
 public class LambdaTest4 {
 	
